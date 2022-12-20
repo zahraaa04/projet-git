@@ -1,2 +1,3 @@
-# Word laboratoire1
-Le depot contient le travail réalisée et la spéecification du laboratoire
+
+Les depots contiennent le travail réalisée et la spéecification et les documents utilisés pour la réalisation des travaux
+
